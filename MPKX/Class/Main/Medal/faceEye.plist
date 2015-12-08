@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>brow0</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow1</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow2</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow3</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow4</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow5</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow6</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow7</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow8</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow9</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow10</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow11</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>brow12</string>
+	</dict>
+</array>
+</plist>
